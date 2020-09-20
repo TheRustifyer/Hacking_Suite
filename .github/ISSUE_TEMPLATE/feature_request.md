@@ -1,3 +1,7 @@
+Feel free to let ideas to improve the app.
+
+
+
 ---
 name: Feature request
 about: Suggest an idea for this project
