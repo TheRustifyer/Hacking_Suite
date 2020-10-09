@@ -1,0 +1,326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"k",
+				"kerning\tpygame(freetype) "
+			],
+			[
+				"pdf_",
+				"pdf_combiner"
+			],
+			[
+				"get",
+				"get_arguments()\tfunction ⟠"
+			],
+			[
+				"Opti",
+				"OptionParser\ttype ⟠"
+			],
+			[
+				"choose",
+				"choosen_pattern"
+			],
+			[
+				"desired",
+				"desired_scale"
+			],
+			[
+				"scale_Ava",
+				"scale_availiable_options_dict"
+			],
+			[
+				"scale_ava",
+				"scale_availiable_options_dict"
+			],
+			[
+				"musical",
+				"musical_toolkit"
+			],
+			[
+				"musica",
+				"musical_toolkit"
+			],
+			[
+				"user_genre",
+				"user_genre_input"
+			],
+			[
+				"user_genre_",
+				"user_genre_input"
+			],
+			[
+				"user_genre_se",
+				"user_genre_set"
+			],
+			[
+				"pattern",
+				"pattern_to_notes"
+			],
+			[
+				"wate",
+				"watermarker_inputs\t⟠"
+			],
+			[
+				"pl",
+				"player2"
+			],
+			[
+				"s",
+				"shout"
+			],
+			[
+				"pla",
+				"player1"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"play",
+				"PlayerCharacter"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"contro",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lsi",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"pip install pygame",
+			"clear",
+			"pip install pygame"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alex/Desktop/Sublime/pdf-merger/pdf.py",
+		"/C/Users/Alex/Desktop/Sublime/mac_changer/mac_changer.py",
+		"/C/Users/Alex/Desktop/Sublime/mac_changer/main.py",
+		"/C/Users/Alex/Desktop/mac.py",
+		"/C/Users/Alex/Desktop/Sublime/App Musical/musical_scale.py",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/KiteSublime/KiteSublime.sublime-settings",
+		"/C/Users/Alex/Desktop/Sublime/App Musical/.git/COMMIT_EDITMSG",
+		"/C/Users/Alex/Desktop/Sublime/App Musical/data.py",
+		"/C/Users/Alex/Desktop/Sublime/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/Alex/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/Alex/Desktop/Sublime/pdf-merger/Full NIE.pdf",
+		"/C/Users/Alex/Desktop/Sublime/pdf-merger/pdf_name",
+		"/C/Users/Alex/Desktop/Sublime/Web_Dev/random.py",
+		"/C/Users/Alex/Desktop/Sublime/classes_li.py",
+		"/C/Users/Alex/Desktop/Sublime/Web_Dev/server.py",
+		"/C/Users/Alex/Desktop/TEST_LILI/creating_input_fields.py",
+		"/C/Users/Alex/Desktop/TEST_LILI/testes tkinterLili.py",
+		"/C/Users/Alex/Desktop/Sublime/testes tkinterLili.py",
+		"/C/Users/Alex/Desktop/Sublime/TEST_LILI/testes tkinterLili.py",
+		"/C/Users/Alex/Desktop/Sublime/TEST_LILI/buttons.py",
+		"/C/Users/Alex/Desktop/Sublime/TEST_LILI/creating_input_fields",
+		"/C/Users/Alex/Desktop/Sublime/TEST_LILI/UDEMY/test_classes_lili.py",
+		"/C/Users/Alex/Desktop/Sublime/Web_Dev/venv/Scripts/activate.bat",
+		"/C/Users/Alex/Desktop/Sublime/Web_Dev/venv/Scripts/Activate.ps1",
+		"/C/Users/Alex/Desktop/Sublime/Web_Dev/hello_world.py",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Alex/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/Alex/Desktop/Pokemon/config.py",
+		"/C/Users/Alex/Desktop/Pokemon/player.py",
+		"/C/Users/Alex/Desktop/Pokemon/game_state.py",
+		"/C/Users/Alex/Desktop/Pokemon/game.py",
+		"/C/Users/Alex/Desktop/Pokemon/main.py",
+		"/C/Users/Alex/Desktop/Sublime/Tkinter prueba.py",
+		"/C/Users/Alex/Desktop/Sublime/test_classes_lili.py",
+		"/C/Users/Alex/Desktop/Sublime/App Musical/main.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mac_changer.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
