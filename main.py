@@ -31,7 +31,7 @@ def change_mac(interface, new_mac):
 
 def get_current_mac(interface):
     ifconfig_result = subprocess.check_output(['ifconfig', options.interface])
-    result = re.search(r'\w\w:\w\w:\w\w:\w\w:\w\w:\w\w', str(ifconfig_result))
+    result = re.search(r'(([a-e]|[0-9]){2}(:)){5}([a-e]|[0-9]){2}', str(ifconfig_result))
 
     if result:
 
