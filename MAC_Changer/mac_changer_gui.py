@@ -1,5 +1,5 @@
 import tkinter as tk
-import main
+import mac_changer
 
 
 window = tk.Tk()
