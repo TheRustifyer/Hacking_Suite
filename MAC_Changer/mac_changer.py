@@ -10,7 +10,7 @@ def get_arguments():
     parser.add_option('-i', '--interface', dest='interface', help='Simple script program to change your MAC address.'
                                                                   + 'Type on TERMINAL "ifconfig" to know what interface you want to use.')
     parser.add_option('-m', '--mac', dest='new_mac', help='Insert the desired MAC address')
-    (options, arguments) = parser.parse_args()
+    options, _ = parser.parse_args()
 
     if not options.interface:
         parser.error('Please specify an interface, use --help if needed')
