@@ -8,8 +8,8 @@ advanced hacking attacks.
 
 ## Summary 
 
-1. [MAC Changer]()
-2. [Network Scanner]()
+1. [MAC Changer](https://github.com/Pyzyryab/mac_changer/blob/master/MAC_Changer/mac_changer.py)
+2. [Network Scanner](https://github.com/Pyzyryab/mac_changer/blob/master/Network_Scanner/network_scanner.py)
 
 ## Disclaimer
 
